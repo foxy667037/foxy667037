@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm **Muhammad Fahad** ✨🏀
 
 ### 😎 What I’m Working On
-I'm currently building awesome websites using **PHP,Tailwind and React**, like **blogging websites** and other dynamic web applications.
+I'm currently building awesome websites using **PHP, Tailwind and React**, like **blogging websites** and other dynamic web applications.
 
 ### 🧠 What I'm Learning
 I'm diving deep into the world of **Three.js** and **Particle.js** to create stunning web graphics and interactive experiences.
