@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/foxy667037">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/foxy667037">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:ma667037c@gmail.com">
@@ -100,21 +100,17 @@ A blogging application with authentication, post creation and editing, rich cont
 
 A frontend recreation focused on responsive layouts, reusable components, visual detail, and interactive motion.
 
-<p align="center">
-  <i>Add links to each project's live demo and repository when they're available.</i>
-</p>
-
 ---
 
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Most-used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=foxy667037&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxy667037&layout=compact&theme=transparent&hide_border=true" alt="Most-used languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=foxy667037&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 ---
@@ -136,7 +132,7 @@ I'm interested in **web development, full-stack engineering, AI-powered applicat
   &nbsp; · &nbsp;
   <a href="mailto:ma667037c@gmail.com">Email</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+  <a href="https://github.com/foxy667037">GitHub</a>
 </p>
 
 <div align="center">
